@@ -22,5 +22,5 @@ A Pokédex é uma enciclopédia virtual portátil de alta tecnologia que os trei
 
 # Geração
 
-Aqui temos alguns pokémons da 1°geração. Mas pretendo colocar toda geração aqui
+Aqui temos alguns pokémons da 1°geração. Mas pretendo colocar toda geração aqui.
 
