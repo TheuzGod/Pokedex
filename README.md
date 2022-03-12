@@ -1,23 +1,11 @@
 # Pokédex
 
-<p align="center">Esse projeto ...</p>
-<p align="center">Foi feito pensando em catalogar pokémons</p>
+<p align="center">🚧🚨Projeto em andamento 🚨🚧</p>
+<p align="center">Esse projeto foi feito pensando em catalogar pokémons</p>
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Pokémons](#Pokémons)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+<a href="center" align="#sobre">Sobre</a> •
+   <a href="center" align="#pokemons">Pokémons</a> •
+   <a href="center" align="#Geracao">Geração</a> 
 
 # Sobre
 
@@ -25,3 +13,13 @@ A Pokédex é uma enciclopédia virtual portátil de alta tecnologia que os trei
 
 # Pokémons
 
+• Bulbasaur
+ • Charmander
+ • Dragonite
+ • Gengar
+ • Gyarados
+ • Pikachu
+
+# Geração
+
+Aqui temos alguns pokémons da 1°geração. Mas pretendo colocar toda geração aqui
