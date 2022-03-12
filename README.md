@@ -1,6 +1,8 @@
 # Pokédex
 
-<p align="center">Esse projeto fala sobre a Pokédex de Pokémon</p>
+<p align="center">Esse projeto ...</p>
+<p align="center">Foi feito pensando em criar uma Pokédex para catalogar pokémon</p>
+
 
 • <a href="#oqueé">O que é</a> •
 <a href="#pokemons">Pokémons</a> •
